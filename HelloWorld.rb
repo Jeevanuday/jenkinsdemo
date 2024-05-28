@@ -5,6 +5,7 @@ class Test
         puts "Hello, World! #{i}"
      end
      puts "Code ended from github"
+     puts "new change for automatic push"
     end
   end
   
