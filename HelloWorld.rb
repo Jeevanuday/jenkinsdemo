@@ -1,9 +1,9 @@
 class Test 
     def initialize
      puts "Code from github"
-     for(i=0; i<10; i++){
-        puts ("Alert:" + i);
-     }
+     for i in 0...10 do
+        puts "Hello, World! #{i}"
+     end
      puts "Code ended from github"
     end
   end
